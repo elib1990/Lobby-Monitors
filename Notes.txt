@@ -14,3 +14,5 @@ Comment=This starts and monitors the lobby slideshows
 ---------------------------------------------dont include lines-----------------------
 
 Put slides.sh and watcher.pl into the /home/lobby/DOwnloads/    directory
+
+Only use open office and cut out the weird pause under “slide show settings”
